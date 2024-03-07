@@ -194,7 +194,7 @@ ApplyJetBTaggingDeepCSV 0
 ApplyJetBTaggingDeepFlav 1
 
 JetBTaggingWP   medium
-JetBTaggingCut  0.2589
+JetBTaggingCut  0.2598
 MatchBToGen     1
 UseBtagSF       1
 RemoveBJetsFromJets 0
